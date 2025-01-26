@@ -1,0 +1,5 @@
+Kivy
+requests
+geopy
+matplotlib
+Pillow
